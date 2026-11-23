@@ -1,0 +1,1 @@
+# mcp-vs-cli-metabase
